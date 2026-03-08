@@ -2,6 +2,8 @@
 #include "executer.hpp"
 #include <iostream>
 
+// Main program which takes input and calls the functions of the library we made.
+
 int main()
 {
     while (true)
